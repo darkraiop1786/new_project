@@ -6,7 +6,7 @@ new project
     <title>HTML is Structure only (Before)</title>
   </head>
   <body>
-    <h1>HTML is Structure only</h1>h1>
+    <h1>HTML is Structure only</h1>
     <p>hello how are you?</p>
     <p>how is life without stress</p>
     <footer>
